@@ -1,0 +1,36 @@
+++++++++++++++++++RulePopulation++++++++++++++++++
+T => 'b'
+T => 'a'
+L => C; O
+Q => K; R
+Q => J; K
+C => I; F
+N => Q; H
+J => Q; J
+P => R; B
+<S> => T; T
+N => T; I
+Q => L; B
+C => B; <S>
+M => H; S
+U => H; G
+G => H; J
+C => G; G
+<S> => <S>; Q
+K => H; C
+F => I; E
+<S> => <S>; <S>
+U => B; U
+T => K; B
+S => B; O
+M => S; H
+F => J; R
+N => F; F
+K => M; D
+T => H; M
+K => N; C
+H => G; B
+N => H; K
+P => G; G
+P => G; J
++++++++++++++++RulePopulation ends++++++++++++++++
