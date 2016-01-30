@@ -107,6 +107,6 @@
         "negative_weight": 2.0,
         "positive_weight": 1.0,
         "valid_sentence_price": 1.0,
-        "negative_sentence_learning": false
+        "negative_sentence_learning": true
     }
 }
